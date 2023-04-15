@@ -1,0 +1,13 @@
+{
+    "name": "meu-aplicativo",
+    "version": "1.0.0",
+    "description": "Meu aplicativo Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
